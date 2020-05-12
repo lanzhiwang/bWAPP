@@ -112,6 +112,7 @@ function xss($data)
 
     <form action="<?php echo($_SERVER["SCRIPT_NAME"]);?>" method="GET">
 
+        <!-- 在用户名和密码输入：<script>alert( 'haha' )</script> -->
         <p><label for="firstname">First name:</label><br />
         <input type="text" id="firstname" name="firstname"></p>
 
