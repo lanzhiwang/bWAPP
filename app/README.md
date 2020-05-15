@@ -2,11 +2,9 @@
 
 / A8 - Cross-Site Request Forgery (CSRF) /,portal.php
 
-Cross-Site Request Forgery (Change Password),csrf_1.php
-
-Cross-Site Request Forgery (Change Secret),csrf_3.php
-
-Cross-Site Request Forgery (Transfer Amount),csrf_2.php
+* Cross-Site Request Forgery (Change Password),csrf_1.php
+* Cross-Site Request Forgery (Change Secret),csrf_3.php
+* Cross-Site Request Forgery (Transfer Amount),csrf_2.php
 
 https://blog.csdn.net/qq1124794084/article/details/79005137
 
@@ -14,17 +12,11 @@ https://blog.csdn.net/qq1124794084/article/details/79005137
 
 / A3 - Cross-Site Scripting (XSS) /,portal.php
 
-Cross-Site Scripting - Reflected (GET),xss_get.php
-
-Cross-Site Scripting - Reflected (POST),xss_post.php
-
-Cross-Site Scripting - Reflected (JSON),xss_json.php
-
-------------------------------------------------------------------------------
-
-Cross-Site Scripting - Reflected (AJAX/JSON),xss_ajax_2-1.php
-
-Cross-Site Scripting - Reflected (AJAX/XML),xss_ajax_1-1.php
+* Cross-Site Scripting - Reflected (GET),xss_get.php
+* Cross-Site Scripting - Reflected (POST),xss_post.php
+* Cross-Site Scripting - Reflected (JSON),xss_json.php
+* Cross-Site Scripting - Reflected (AJAX/JSON),xss_ajax_2-1.php
+* Cross-Site Scripting - Reflected (AJAX/XML),xss_ajax_1-1.php
 
 Cross-Site Scripting - Reflected (Back Button),xss_back_button.php
 
